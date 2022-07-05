@@ -1,5 +1,4 @@
 
-
 body{
     width: 100%;
     scroll-behavior: smooth;
@@ -9,7 +8,6 @@ body{
 }
 .YT-nav .navbar .navbar-nav {
     padding: 0 5%;
-
 }
 .YT-nav .navbar .navbar-nav .nav-item a {
     font-size: 16px;
@@ -23,13 +21,12 @@ body{
     margin-right: 15px;
     position: relative;
     color: white;
-
 }
-
 
 .YT-nav .navbar .navbar-nav .nav-item:hover .dropdown-menu{
     display: block;
 }
+
 .YT-nav .navbar .navbar-nav .nav-item:hover .dropdown-menu a{
     color: black;
    line-height: 30px;
